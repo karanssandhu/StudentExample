@@ -1,7 +1,8 @@
 /*
- Change to the remote repository 
+ *Change to the remote repository #commit 2
+ *Commit#3
  */
-package ca.sheridancollege.week1.softwarefundamentals;
+package StudentExample;
 
 /**
  *
